@@ -1,0 +1,19 @@
+{
+  "store_version": 1,
+  "apps": [
+    {
+      "id": "com.arkgroup.appstore",
+      "name": "ASV App Store",
+      "package_name": "com.arkgroup.appstore",
+      "version": "1.0.0",
+      "version_code": 1,
+      "summary": "Native high-performance self-hosted Android app store.",
+      "description": "Discover, install, and update applications directly via GitHub Releases.",
+      "icon_url": "https://raw.githubusercontent.com/ARKGROUPai/asv-app-store/main/icons/store.png",
+      "download_url": "https://github.com/ARKGROUPai/asv-app-store/releases/download/v1.0.0/app-release.apk",
+      "size_bytes": 12582912,
+      "category": "Tools",
+      "changelog": "Initial stable release."
+    }
+  ]
+}::
